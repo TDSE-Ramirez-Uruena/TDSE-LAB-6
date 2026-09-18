@@ -40,7 +40,7 @@
                         <configuration>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.escuelaing.edu.app.HttpServer</mainClass>
+                                    <mainClass>com.escuelaing.edu.app.Application</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
